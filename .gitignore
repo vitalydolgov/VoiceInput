@@ -1,0 +1,7 @@
+.DS_Store
+.claude
+.build
+.swiftpm
+**/*.xcodeproj/**/xcuserdata/
+
+Secrets.plist
